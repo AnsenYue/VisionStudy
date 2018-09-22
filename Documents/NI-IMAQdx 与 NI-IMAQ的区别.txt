@@ -1,0 +1,22 @@
+NI-IMAQdx 与 NI-IMAQ的区别
+
+1，定义：
+
+NI-IMAQdx：NI-IMAQdx is driver software that supports NI 177x smart cameras,
+		   as well as IEEE 1394, GigE Vision, DirectShow-compatible USB, USB3 
+		   Vision, and IP cameras.
+		   
+		   (NI-IMAQdx:是驱动软件，支持NI-17xx智能相机，也支持IEEE1394，GigE Vision，
+		    directshow-compatible USB，USB3.0和网络相机)
+		   
+NI-IMAQ ：The NI-IMAQ VI library, a series of VIs for using LabVIEW with 
+		  National Instruments image acquisition devices, is included with 
+		  the NI-IMAQ driver software.
+		   (NI-IMAQ是VI库，对自家的相机提供VI支持，也对自家的相机提供驱动支持)
+		   
+		  The NI-IMAQ VI library also includes several basic NI Vision VIs. 
+		  NI Vision is an image processing and analysis library that consists 
+		  of VIs for use with LabVIEW. 
+		  
+		  (NI-IMAQ包含基本的图像处理VI，NI Vision是图像处理与分析的VI库。)
+
